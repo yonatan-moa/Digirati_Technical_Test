@@ -47,7 +47,7 @@ user_list = [
     user_10,
 ]
 
-print("Yonatan Shahar Digitari Test")
+print("Yonatan Shahar Digirati Test")
 
 # Url to endpoint
 url = r"https://restcountries.com/v2/callingcode/"
@@ -56,7 +56,7 @@ url = r"https://restcountries.com/v2/callingcode/"
 input_number = input(
     "Please enter the country code and phone number to make a call. (example “+44141555555” or “44 555 512 34”): "
 )
-# If the number has not the + at the start of the phone number it adds it
+# If the number has not the + at the start of the phone number, it adds it
 if input_number[0] != "+":
     input_number = f"+{input_number}"
 

@@ -1,4 +1,4 @@
-# Digitari Technical Test Backend - Yonatan Shahar
+# Digirati Technical Test Backend - Yonatan Shahar
 ## Description
 
 <font size=3>This API matches phone numbers to speakers of the main language in their respective countries.
@@ -49,7 +49,7 @@ You can access the diagram in the project document folder:
 10. The required information was outputted.
 
 ## Issues
-* Initially, I used string slicing to extract the phone country code, which led to validation issues. I later reconsidered the prototype's scalability and approached it with a more Digitari-focused perspective.
+* Initially, I used string slicing to extract the phone country code, which led to validation issues. I later reconsidered the prototype's scalability and approached it with a more Digirati-focused perspective.
 * The current method of task assignment to users through a list is simplistic. For scalability, users should be organized in a relational schema with comprehensive metadata.
 
 ## Observations - Suggestions
