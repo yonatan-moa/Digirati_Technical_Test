@@ -15,7 +15,7 @@ It accepts formats such as “+44141555555” or “44 555 512 34” etc. and re
 
 ## Usage
 
-To execute the Test Backend API, run the main_api.py file.
+To execute the Test Backend API, run the [main_api.py](https://github.com/yonatan-moa/Digitary_Technical_Test/blob/e130a13e25908710d1dbc79dae72296cebe7fa32/src/main_api.py) file.
 
 To test the small API, the follow country codes were used:
 * Martinique +596
