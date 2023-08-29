@@ -34,7 +34,7 @@ To test the small API, the follow country codes were used:
 ### Design
 I created a process flow diagram to enhance my understanding of the requirements.
 You can access the diagram in the project document folder:
-[Link](https://github.com/yonatan-moa/yonshar_digirati_01/blob/fc85641c53122fa3b9570634028d228736086892/docs/Code_test_diagram.pdf).
+[Link](docs/Code_test_diagram.pdf).
 
 ### Implementation
 1. I developed a main function to drive the overall process.
